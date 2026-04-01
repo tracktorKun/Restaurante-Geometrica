@@ -1,0 +1,7 @@
+{
+  "name": "Restaurante Geométrico",
+  "description": "Cozinha de autor e ambiente sofisticado no coração do Porto. Uma experiência gastronómica onde a arte e o sabor se encontram em linhas perfeitas.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
